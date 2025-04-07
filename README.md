@@ -1,5 +1,5 @@
 # Calculator.py
-A simple calculator built by using python
+#A simple calculator built by using python
 def add(x, y):
     return x + y
 
